@@ -1,0 +1,20 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "3b15ca94-9395-409b-afb0-9d72647563c2",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "views/noticias/index.ejs": [
+      {
+        "id": "7697100a-4b2f-445e-800b-dee86e76a354",
+        "line": 23,
+        "version": 41,
+        "index": 636
+      }
+    ]
+  }
+}
